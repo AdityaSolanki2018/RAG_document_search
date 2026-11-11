@@ -1,0 +1,6 @@
+.env
+ragagentvenv
+# Python Cache and ByteCode
+__pycache__/
+*.py[cod]
+*$py.class
