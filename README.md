@@ -1,4 +1,4 @@
-H# 🤖 Agentic RAG Document Assistant
+# 🤖 Agentic RAG Document Assistant
 
 An interactive **Agentic Retrieval-Augmented Generation (RAG)** web application built with **LangChain**, **LangGraph**, **OpenAI**, and **Streamlit**.
 
